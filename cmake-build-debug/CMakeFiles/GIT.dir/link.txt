@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/GIT.dir/main.cpp.o -o GIT 
